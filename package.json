@@ -9,14 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.1",
     "@types/node": "20.10.6",
     "@types/react": "18.2.47",
     "@types/react-dom": "18.2.18",
+    "@uiw/codemirror-theme-vscode": "^4.21.21",
+    "@uiw/react-codemirror": "^4.21.21",
+    "assert": "^2.1.0",
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.4",
+    "firebase": "^10.7.2",
     "next": "14.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^4.12.0",
+    "react-split": "^2.0.14",
+    "react-toastify": "^10.0.4",
+    "react-youtube": "^10.1.0",
+    "recoil": "^0.7.7",
     "typescript": "5.3.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1"
   }
 }
